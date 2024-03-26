@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+    <?php include_once('./include/head.php'); ?>
+    <body>
+        <?php include './include/sections/preloader.php'; ?>
+        <!--====== Start Header ======-->
+        <?php include_once('./include/header-2.php'); ?>
+        <!--====== End Header ======-->
+        <!--====== Start breadcrumbs section ======-->
+        <section class="breadcrumbs-section bg_cover" style="background-image: url(assets/images/services/repair.png);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="breadcrumbs-content">
+                            <h1>Our Services</h1>
+                            <ul class="link">
+                                <li><a href="index.html">Home</a></li>
+                                <li class="active">Services</li>
+                                <li class="active">Complete Auto Repair and Maintenance Services</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!--====== End breadcrumbs section ======-->
+        <!--====== Start service-section-area ======-->
+        <section class="service-area-v3 pt-120 pb-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="section-title text-center mb-70">
+                            <h2>Complete Auto Repair and Maintenance Services</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-snowflake"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Air Conditioning Systems </a></h3>
+                                <p>Expert air conditioning system services ensuring optimal climate control and comfort within your vehicle throughout the year.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-car-battery"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Batteries & Electrical</a></h3>
+                                <p>Comprehensive batteries and electrical services, maintaining your vehicle's power systems for reliability and performance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-car-side"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Brake Service</a></h3>
+                                <p>Professional brake service to ensure your vehicle's safety and performance with thorough inspections and repairs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-cogs"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Routine Maintenance</a></h3>
+                                <p>Dedicated routine maintenance services, keeping your vehicle in top condition through scheduled inspections and care.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="bi bi-gear-wide-connected"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Vehicle Suspension</a></h3>
+                                <p>Advanced vehicle suspension services, enhancing your driving experience by maintaining stability and comfort.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-car"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Engine & Transmission</a></h3>
+                                <p>Specialized engine and transmission services, focusing on performance, efficiency, and longevity of your vehicle's core systems.</p>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-item mb-30">
+                            <div class="service-shape">
+                                <div class="shape shape-1"></div>
+                                <div class="shape shape-2"></div>
+                                <div class="shape shape-3"></div>
+                                <div class="shape shape-4"></div>
+                            </div>
+                            <div class="service-icon">
+                                <i class="fas fa-oil-can"></i>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="#">Oil Change Service</a></h3>
+                                <p>Efficient oil change services to ensure your vehicle's engine runs smoothly, prolonging its lifespan and performance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!--====== End service-section-area ======-->
+              <!--====== Start contact Section ======-->
+      <?php include_once './include/sections/contact-section.php'; ?>
+      <!--====== End contact Section ======-->
+        <!--====== Start Footer ======-->
+        <?php include_once './include/footer.php'; ?>
+        <!--====== End Footer ======-->
+        <!--====== back-to-top ======-->
+        <a href="#" class="back-to-top" ><i class="flaticon-up-arrow-angle"></i></a>
+        <!--====== Jquery js ======-->
+        <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
+        <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <!--====== Bootstrap js ======-->
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <!--====== Slick js ======-->
+        <script src="assets/js/slick.min.js"></script>
+        <!--====== Magnific Popup js ======-->
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <!--====== Isotope js ======-->
+        <script src="assets/js/isotope.pkgd.min.js"></script>
+        <!--====== Imagesloaded js ======-->
+        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+        <!--====== nice-select js ======-->
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <!--====== counterup js ======-->
+        <script src="assets/js/jquery.counterup.min.js"></script>
+        <!--====== waypoints js ======-->
+        <script src="assets/js/waypoints.min.js"></script>
+        <!--====== Main js ======-->
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
